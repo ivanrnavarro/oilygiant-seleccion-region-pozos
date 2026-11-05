@@ -26,6 +26,11 @@ La compañía petrolera OilyGiant debe elegir en cuál de tres regiones abrir 20
 | **geo_data_1** | **USD 6,3 millones** | **0,2 %** | **Recomendada** |
 | geo_data_2 | USD 5,5 millones | 3,5 % | Descartada (supera el 2,5 %) |
 
+## Gráficas
+
+**Ganancia promedio y riesgo de pérdida por región (elaborada con los resultados del notebook)**
+![Ganancia promedio y riesgo de pérdida por región (elaborada con los resultados del notebook)](images/ganancia_y_riesgo_por_region.png)
+
 ## Conclusiones
 
 - Sin análisis de riesgo, la región 0 parecía la mejor opción (ganancia estimada de USD 31,8 millones en los 200 mejores pozos), pero su RMSE de 37,8 ponía en duda la estimación.
